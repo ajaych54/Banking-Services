@@ -13,14 +13,10 @@ Fintech
 "Project Demo Video Link" - https://www.youtube.com/watch?v=ulfeD1vuOhw&ab_channel=ajaychodipilli
 
 # Screenshots
-![Screenshot (101)](https://github.com/ajaych54/Banking-Services/assets/135602085/0a5b8477-116e-47bb-97d8-21958b14985a)
-![Screenshot (90)](https://github.com/ajaych54/Banking-Services/assets/135602085/5f83c725-db0c-4e36-bd59-50855adab074)
-![Screenshot (93)](https://github.com/ajaych54/Banking-Services/assets/135602085/d79d2564-a518-473b-8a82-1b70efa3eb36)
-![Screenshot (94)](https://github.com/ajaych54/Banking-Services/assets/135602085/6ae49510-ee38-49c9-a04c-0d0dd56d7b9b)
-![Screenshot (95)](https://github.com/ajaych54/Banking-Services/assets/135602085/0f05bc66-d700-437f-a8aa-d98e1cc10f51)
-![Screenshot (96)](https://github.com/ajaych54/Banking-Services/assets/135602085/0579e9b3-1b84-4749-af60-1fcd17541f45)
-![Screen![Screenshot (99)](https://github.com/ajaych54/Banking-Services/assets/135602085/6d686dd0-9859-4fc2-b36a-e95483a9ac66)
-shot (98)](https://github.com/ajaych54/Banking-Services/assets/13560![Screenshot (100)](https://github.com/ajaych54/Banking-Services/assets/135602085/8f9b870a-ca8c-4a02-bc6c-3a55108f1ae7)
-2085/75218349-82ee-4523-ac20-8350282c39b4)
-
-
+![Screenshot (102)](https://github.com/ajaych54/Banking-Services/assets/135602085/14669f52-a4c6-45fe-a480-c9411793e0c0)
+![Screenshot (103)](https://github.com/ajaych54/Banking-Services/assets/135602085/312eae3b-afd9-4a06-b8a1-3d3242e219c0)
+![Screenshot (104)](https://github.com/ajaych54/Banking-Services/assets/135602085/4238ba4f-36b7-400b-ad31-016060a36acc)
+![Screenshot (105)](https://github.com/ajaych54/Banking-Services/assets/135602085/86e38bb8-20e2-43bb-a279-3259c29b3172)
+![Screenshot (106)](https://github.com/ajaych54/Banking-Services/assets/135602085/f1f6ad5e-d0a1-45a9-bdaf-0d4f21c39d17)
+![Screenshot (107)](https://github.com/ajaych54/Banking-Services/assets/135602085/f3ccef97-9969-42ee-84da-48fdc0784a02)
+![Screenshot (108)](https://github.com/ajaych54/Banking-Services/assets/135602085/27862c64-8b39-4418-9cec-1b63501fcf75)
