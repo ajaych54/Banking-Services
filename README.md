@@ -10,6 +10,7 @@ Fintech
 
 # Links
 "project link" - https://witty-mud-0a3a3c600.3.azurestaticapps.net
+
 "Project Demo Video Link" - https://www.youtube.com/watch?v=ulfeD1vuOhw&ab_channel=ajaychodipilli
 
 # Screenshots
