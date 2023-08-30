@@ -102,20 +102,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="col-lg-4 col-md-6 contact-form mt-md-0 mt-sm-5 mt-4">
 				<h4 class="mb-4 w3f_title">Contact Form</h4>
-				<form name="contactform" id="contactform" method="post" action="#" onsubmit="SendEmail(); resert(); return false;">
+				<form name="contactform" id="contactform" action="https://formsubmit.co/ajaychodipillii@gmail.com" method="POST" >
 					<div class="form-group">
 						<label>Name</label>
-						<input type="text" class="form-control" id="name" placeholder="Enter Name" name="name">
+						<input type="text" class="form-control" name="name" Required placeholder="Enter Name" name="name">
 					</div>
 					<div class="form-group">
 						<label>Email</label>
-						<input type="email" class="form-control" id="name" placeholder="Enter Email" name="email">
+						<input type="email" class="form-control" name="email" required placeholder="Enter Email" name="email">
 					</div>
 					<div class="form-group">
 						<label>How can we help?</label>
-						<textarea name="issues" class="form-control" id="iq" placeholder="Enter Your Message Here"></textarea>
+						<textarea name="issues" class="form-control" name="Message" required placeholder="Enter Your Message Here"></textarea>
 					</div>
-					<button type="submit" class="btn btn-default">Submit</button>
+					<button type="submit" >Submit</button>
 				</form>
 			</div>
 			<
@@ -125,24 +125,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 	</div>
-	script>src = "https://smtpjs.com/v3/smtp.js"</script>
-			<script>
-				function SendEmail() {
-					Email.send({
-						Host: "smtp.gmail.com",
-						Username: "ajaychodipilli1223@gmail.com",
-						Password: "Daya@0105",
-						To: 'ajaychodipillii@gmail.com',
-						From: document.getElementById("Email").value,
-						Subject: "New contact form",
-						Body: "Name:" + document.getElementById("Name").value,
-								+ "<br> Email:" + document.getElementById("Email").value,
-						+"<br> How can we help?:" + document.getElementById("How can we help?").value,
-						}).then(
-							message => alert("Sent")
-						);
-					}
-			</script>
+	
 </section>
 <!-- //contact -->
 		
