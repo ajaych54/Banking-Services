@@ -10,7 +10,8 @@ Fintech
 
 # Links
 "project link" - https://salmon-grass-0c3655610.3.azurestaticapps.net
-"Project Demo Video Link" - https://www.youtube.com/watch?v=ulfeD1vuOhw&ab_channel=ajaychodipilli
+
+"Project Demo Video Link" - https://youtu.be/ru0Cwqqkw64
 
 # Screenshots
 
