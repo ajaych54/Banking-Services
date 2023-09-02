@@ -5,8 +5,7 @@
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Bank Card Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords"/>
 
     <script>
         addEventListener("load", function () {
@@ -102,42 +101,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="col-lg-4 col-md-6 contact-form mt-md-0 mt-sm-5 mt-4">
 				<h4 class="mb-4 w3f_title">Contact Form</h4>
-				<form name="contact-form" id="contact-form" />
-				<div class="form-group">
-					<label>Name</label>
-					<input type="text" class="form-control" id="name" placeholder="Enter Name" name="name">
-				</div>
-				<div class="form-group">
-					<label>Email</label>
-					<input type="email" class="form-control" id="name" placeholder="Enter Email" name="email">
-				</div>
-				<div class="form-group">
-					<label>How can we help?</label>
-					<textarea name="issues" class="form-control" id="iq" placeholder="Enter Your Message Here"></textarea>
-				</div>
-				<button type="submit" class="btn btn-default">Submit</button>
-				<span id="msg"</span>
-				</form>
-			</div>
-			
+				<form action="https://formspree.io/f/xgejyaga"
+					  method="POST">
+							<label for="name">Name:</label>
+							<input type="text" id="name" name="name" >
 
-			<script>
-                const scriptURL = 'https://script.google.com/macros/s/AKfycbzO73ZNSlhGM6pZcJDvsfV0LxH4w01leplDbFq4h6s_FMOJ9bt5e24cinhYzaQ5ZOs/exec'
-				const form = document.forms['Contact-Form']
-				const msg = document.getElementById('msg')
-				form.addEventListener('submit', e => {
-					e.preventDefault()
-					fetch(scriptURL, { method: 'POST', body: new FormData(form) })
-						.then(response => {
-							msg.innerHTML = "thank you for your message!"
-							setTimeout(function () {
-								msg.innerHTML = ""
-							},5000)
-						})
-						form.reset()
-						.catch(error => console.error('Error!', error.message))
-				}}
-			</script>
+							<label for="email">Email:</label>
+							<input type="email" id="email" name="email" >
+
+							<label for="message">Query:</label>
+							<textarea id="message" name="message" rows="4" </textarea>
+
+							<input type="submit" value="Submit">
+						</form>
+				</div>
+					</body>
+				</html>
 
 			<div class="col-lg-4 contact-map mt-lg-0 mt-sm-5 mt-4">
 				<h4 class="mb-4 w3f_title">Contact Map</h4>
