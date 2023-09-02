@@ -20,5 +20,13 @@ Fintech
 ![Screenshot (120)](https://github.com/ajaych54/Banking-Services/assets/135602085/0d7654c2-f84f-4960-91b2-78f7a330784e)ce5-35db-4977-afe6-01aa318bab78)
 ![Screenshot (121)](https://github.com/ajaych54/Banking-Services/assets/135602085/5f07ea26-c117-43f1-8d9c-8e9894fa57db)
 ![Screenshot (122)](https://github.com/ajaych54/Banking-Services/assets/135602085/0e642644-2fb5-42a3-822d-8ccbb9677208)
-![Screenshot (132)](https://github.com/ajaych54/Banking-Services/assets/135602085/a9751716-25b3-4475-83b0-28d8881ed6d4)
+![Screenshot (132)](https://github.com/ajaych54/Banking-Services/assets/135602085/a9751716-25b3-4475-83b0-28d88![Screenshot (133)](https://github.com/ajaych54/Banking-Services/assets/135602085/93ff13d3-6475-455e-a660-2d2ac84ad89e)
+81ed6d4)
 
+![Screenshot (131)](https://github.com/ajaych54/Banking-Services/assets/135602085/f1a96fb5-41a![Screenshot (131)](https://github.com/ajaych54/Banking-Services/assets/135602085/52499ad4-0bda-49aa-829c-9c20adcb96ad)
+b-4f7d-a70d-678a6febc2fc)
+
+
+![Uploading Screenshot (131).png…]()
+
+![bAgsE85](https://github.com/ajaych54/Banking-Services/assets/135602085/19205243-0e33-4864-a02b-802b5be409bd)
